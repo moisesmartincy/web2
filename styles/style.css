@@ -1,0 +1,30 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: yellowgreen;
+}
+h1,h2 {
+    color: brown;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-style: italic;
+    padding: 10px;
+    border: 15px;
+    border-style: solid;
+}
+
+p {
+    color: skyblue;
+    text-align: justify;
+    padding: 10px;
+    background-color: yellow;
+}
+
+img {
+    width: 30%;
+
+}
+
+* {
+    margin: 25px;
+}
